@@ -20,5 +20,9 @@ public void createContactTest() {
 public void modifyContactTest() {
 	System.out.println("execute modifycontactTest");
 }
+@Test
+public void deleteContactTest() {
+	System.out.println("execute deletecontactTest");
+}
 
 }
